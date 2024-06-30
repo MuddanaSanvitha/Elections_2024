@@ -1,0 +1,196 @@
+{
+  "parliamentary_constituencies": 543,
+  "assembly_elections": {
+    "Andhra Pradesh": {
+      "total_seats": 175,
+      "results": {
+        "TDP": 135,
+        "JnP": 21,
+        "YSRCP": 11,
+        "BJP": 8
+      }
+    },
+    "Odisha": {
+      "total_seats": 147,
+      "results": {
+        "BJP": 78,
+        "BJD": 51,
+        "INC": 14,
+        "IND": 3,
+        "CPI(M)": 1
+      }
+    },
+    "Arunachal Pradesh": {
+      "total_seats": 60,
+      "results": {
+        "BJP": 46,
+        "NPEP": 5,
+        "IND": 3,
+        "NCP": 3,
+        "PPA": 2
+      }
+    },
+    "Sikkim": {
+      "total_seats": 32,
+      "results": {
+        "SKM": 31,
+        "SDF": 1
+      }
+    }
+  },
+  "bye_elections": {
+    "total_seats": 25,
+    "results": [
+      {
+        "constituency": "Agiaon",
+        "state": "Bihar",
+        "winner": "SHIV PRAKASH RANJAN",
+        "party": "Communist Party of India (Marxist-Leninist) (Liberation)"
+      },
+      {
+        "constituency": "Vijapur",
+        "state": "Gujarat",
+        "winner": "DR. C. J. CHAVDA",
+        "party": "Bharatiya Janata Party"
+      },
+      {
+        "constituency": "Porbandar",
+        "state": "Gujarat",
+        "winner": "ARJUN DEVABHAI MODHWADIA",
+        "party": "Bharatiya Janata Party"
+      },
+      {
+        "constituency": "Manavadar",
+        "state": "Gujarat",
+        "winner": "ARVINDBHAI JINABHAI LADANI",
+        "party": "Bharatiya Janata Party"
+      },
+      {
+        "constituency": "Khambhat",
+        "state": "Gujarat",
+        "winner": "CHIRAGKUMAR ARVINDBHAI PATEL",
+        "party": "Bharatiya Janata Party"
+      },
+      {
+        "constituency": "Vaghodia",
+        "state": "Gujarat",
+        "winner": "DHARMENDRASINH VAGHELA (BAPU)",
+        "party": "Bharatiya Janata Party"
+      },
+      {
+        "constituency": "KARNAL",
+        "state": "Haryana",
+        "winner": "NAYAB SINGH",
+        "party": "Bharatiya Janata Party"
+      },
+      {
+        "constituency": "DHARAMSHALA",
+        "state": "Himachal Pradesh",
+        "winner": "SUDHIR SHARMA",
+        "party": "Bharatiya Janata Party"
+      },
+      {
+        "constituency": "LAHAUL & SPITI",
+        "state": "Himachal Pradesh",
+        "winner": "ANURADHA RANA",
+        "party": "Indian National Congress"
+      },
+      {
+        "constituency": "SUJANPUR",
+        "state": "Himachal Pradesh",
+        "winner": "CAPTAIN RANJIT SINGH",
+        "party": "Indian National Congress"
+      },
+      {
+        "constituency": "BARSAR",
+        "state": "Himachal Pradesh",
+        "winner": "INDER DUTT LAKHANPAL",
+        "party": "Bharatiya Janata Party"
+      },
+      {
+        "constituency": "GAGRET",
+        "state": "Himachal Pradesh",
+        "winner": "RAKESH KALIA",
+        "party": "Indian National Congress"
+      },
+      {
+        "constituency": "KUTLEHAR",
+        "state": "Himachal Pradesh",
+        "winner": "VIVEK SHARMA (VICKU)",
+        "party": "Indian National Congress"
+      },
+      {
+        "constituency": "Gandey",
+        "state": "Jharkhand",
+        "winner": "KALPANA MURMU SOREN",
+        "party": "Jharkhand Mukti Morcha"
+      },
+      {
+        "constituency": "Shorapur",
+        "state": "Karnataka",
+        "winner": "RAJA VENUGOPAL NAIK",
+        "party": "Indian National Congress"
+      },
+      {
+        "constituency": "BAGIDORA",
+        "state": "Rajasthan",
+        "winner": "JAIKRISHN PATEL",
+        "party": "Bharat Adivasi Party"
+      },
+      {
+        "constituency": "Vilancode",
+        "state": "Tamil Nadu",
+        "winner": "THARAHAI CUTHBERT",
+        "party": "Indian National Congress"
+      },
+      {
+        "constituency": "Secunderabad Cantt",
+        "state": "Telangana",
+        "winner": "SRIGANESH",
+        "party": "Indian National Congress"
+      },
+      {
+        "constituency": "Ramnagar",
+        "state": "Tripura",
+        "winner": "DIPAK MAJUMDER",
+        "party": "Bharatiya Janata Party"
+      },
+      {
+        "constituency": "Dadraul",
+        "state": "Uttar Pradesh",
+        "winner": "ARVIND KUMAR SINGH",
+        "party": "Bharatiya Janata Party"
+      },
+      {
+        "constituency": "Lucknow East",
+        "state": "Uttar Pradesh",
+        "winner": "O. P. SRIVASTAVA",
+        "party": "Bharatiya Janata Party"
+      },
+      {
+        "constituency": "Gainsari",
+        "state": "Uttar Pradesh",
+        "winner": "RAKESH KUMAR YADAV",
+        "party": "Samajwadi Party"
+      },
+      {
+        "constituency": "Duddhi",
+        "state": "Uttar Pradesh",
+        "winner": "VIJAY SINGH",
+        "party": "Samajwadi Party"
+      },
+      {
+        "constituency": "Bhagabangola",
+        "state": "West Bengal",
+        "winner": "REYAT HOSSAIN SARKAR",
+        "party": "All India Trinamool Congress"
+      },
+      {
+        "constituency": "Baranagar",
+        "state": "West Bengal",
+        "winner": "SAYANTIKA BANERJEE",
+        "party": "All India Trinamool Congress"
+      }
+    ]
+  }
+}
